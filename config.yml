@@ -2,7 +2,7 @@ baseURL: https://blog.OwnYourGa.me/
 languageCode: en-us
 title: Own Your Game
 
-theme: "PaperMod"
+theme: "PaperMod3"
 
 menu:
     main:
