@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Own Your Game</title>
-    <link>https://blog.OwnYourGa.me/</link>
-    <description>Recent content on Own Your Game</description>
+    <title>Buisness on Own Your Game</title>
+    <link>https://blog.OwnYourGa.me/tags/buisness/</link>
+    <description>Recent content in Buisness on Own Your Game</description>
     <image>
       <url>https://blog.OwnYourGa.me/papermod-cover.png</url>
       <link>https://blog.OwnYourGa.me/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Oct 2021 13:10:14 -0400</lastBuildDate><atom:link href="https://blog.OwnYourGa.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Oct 2021 13:10:14 -0400</lastBuildDate><atom:link href="https://blog.OwnYourGa.me/tags/buisness/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Good Coaches Gone Corporate</title>
       <link>https://blog.OwnYourGa.me/posts/beginning/</link>
@@ -20,7 +20,6 @@
       <description>We&amp;rsquo;re all told at some point in time that we can no longer play the children&amp;rsquo;s game, we just don&amp;rsquo;t know when that&amp;rsquo;s gonna be. Some of us are told at eighteen, some of us are told at forty, but we&amp;rsquo;re all told. - Moneyball (Movie)
  One of the saddest things to see in baseball and sports in general is the end of a career (playing or coaching) after someone has invested their life into the sport.</description>
     </item>
-    
     
   </channel>
 </rss>

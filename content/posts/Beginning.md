@@ -1,11 +1,11 @@
 ---
 title: "Good Coaches Gone Corporate"
 date: 2021-10-25T13:10:14-04:00
-draft: true
+draft: false
 author: "Nicholas Sadd"
-tags: ["baseball"]
+tags: ["Buisness"]
 ---
-![Paideia Pythons](/images/Friedman.jpeg)
+![Paideia Pythons](images/Friedman.jpeg)
 >We're all told at some point in time that we can no longer play the children's game, we just don't know when that's gonna be. 
 Some of us are told at eighteen, some of us are told at forty, but we're all told. - Moneyball (Movie)
 

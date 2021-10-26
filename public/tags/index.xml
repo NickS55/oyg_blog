@@ -9,6 +9,16 @@
       <link>https://blog.OwnYourGa.me/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://blog.OwnYourGa.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Oct 2021 13:10:14 -0400</lastBuildDate><atom:link href="https://blog.OwnYourGa.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buisness</title>
+      <link>https://blog.OwnYourGa.me/tags/buisness/</link>
+      <pubDate>Mon, 25 Oct 2021 13:10:14 -0400</pubDate>
+      
+      <guid>https://blog.OwnYourGa.me/tags/buisness/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
