@@ -80,9 +80,9 @@ params:
     #     icon: icon.png
     #     iconHeight: 35
 
-    # analytics:
-    #     google:
-    #         SiteVerificationTag: "XYZabc"
+    analytics:
+        google:
+            SiteVerificationTag: "G-DDPP4YNYRQ"
 
     assets:
         favicon: "./favicon.ico"
