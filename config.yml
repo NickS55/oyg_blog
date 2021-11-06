@@ -82,7 +82,7 @@ params:
 
     analytics:
         google:
-            SiteVerificationTag: "G-DDPP4YNYRQ"
+            SiteVerificationTag: "G-E6HRMN5WKW"
 
     assets:
         favicon: "./favicon.ico"
